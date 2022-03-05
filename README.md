@@ -6,8 +6,8 @@ Projeto focado na aplicação de técnicas de clusterização em uma base de dad
 
 ## Ferramentas e linguagens utilizadas:
 <div> 
-<img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height=60 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ## Descrição dos arquivos:
